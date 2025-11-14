@@ -12,9 +12,9 @@ layout: none
     {% endif %}
   {% endfor %}
 
-  <!-- Aggiungi qui link personalizzati -->
+  <!-- Custom url -->
   <url>
-    <loc>https://github.com/tuo-utente/progetto1</loc>
+    <loc>https://giocaputo.github.io/Vince-Chi-smette/sitemap.xml</loc>
   </url>
 
 </urlset>
