@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: [Giovanni Caputo]
 description: [I progetti di Giovanni Caputo]
 google_analytics: [G-9TFJY55K7F]
+plugins:
+  - jekyll-sitemap
