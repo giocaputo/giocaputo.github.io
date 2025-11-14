@@ -4,3 +4,19 @@ description: [I progetti di Giovanni Caputo]
 google_analytics: [G-9TFJY55K7F]
 plugins:
   - jekyll-sitemap
+  defaults:
+  - scope:
+      path: "assets/css/style.css"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "robots.txt"
+    values:
+      sitemap: false
+
+  - scope:
+      path: "sitemap.xml"
+    values:
+      sitemap: false
+
