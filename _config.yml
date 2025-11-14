@@ -19,4 +19,8 @@ defaults:
       path: "sitemap.xml"
     values:
       sitemap: false
-
+sitemap:
+  exclude:
+    - /assets/css/style.css
+    - /robots.txt
+    - /sitemap.xml
